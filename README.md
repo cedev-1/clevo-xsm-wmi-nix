@@ -1,0 +1,1 @@
+# clevo-xsm-wmi-nix
